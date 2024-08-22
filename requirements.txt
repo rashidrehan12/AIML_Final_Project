@@ -7,3 +7,5 @@ requests
 PyMuPDF
 pdfplumber
 unstructured
+youtube-transcript-api
+pytube
